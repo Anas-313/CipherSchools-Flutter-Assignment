@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942567714332",
+    "project_id": "pockettracker-3a93c",
+    "storage_bucket": "pockettracker-3a93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942567714332:android:49c17136d8cbeb7d33b9d9",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18QFgjsTSYhQ8fwOlFeZUClBL4HZG0go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
